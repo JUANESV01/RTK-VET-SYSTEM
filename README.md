@@ -124,5 +124,5 @@ Está prohibida su venta, distribución o uso con fines de lucro sin autorizaci�
 ### ✉️ Autor  
 
 **Juan Villegas**  
-Proyecto **RTK — Robtiktronikx**  
-📧 *(puedes agregar tu correo o perfil profesional aquí)*  
+Proyecto **RTK Soluciones — Robtiktronikx Soluciones**  
+📧 *contacto.juanesvm@gmail.com / robotiktronikx@gmail.com*  
