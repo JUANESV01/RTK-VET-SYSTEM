@@ -104,7 +104,7 @@ Está prohibida su venta, distribución o uso con fines de lucro sin autorizaci�
 ### 🧰 Créditos técnicos  
 
 **Lenguaje principal:**  
-- Java 17  
+- Java 25  
 
 **Frameworks y librerías:**  
 - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/) — Interfaz gráfica.  
