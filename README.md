@@ -123,6 +123,6 @@ Está prohibida su venta, distribución o uso con fines de lucro sin autorizaci�
 
 ### ✉️ Autor  
 
-**Juan Villegas**  
+**Juan Villegas, Juan Camilo Castaño**  
 Proyecto **RTK Soluciones — Robtiktronikx Soluciones**  
 📧 *contacto.juanesvm@gmail.com / robotiktronikx@gmail.com*  
